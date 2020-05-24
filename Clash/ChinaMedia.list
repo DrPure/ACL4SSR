@@ -1,6 +1,6 @@
 # 内容：中国媒体列表
-# 更新：2020-04-06 14:18:15
-# 数量：25条
+# 更新：2020-05-24 13:43:48
+# 数量：26条
 
 # Bilibili 哔哩哔哩
 USER-AGENT,Bilibili*
@@ -34,6 +34,7 @@ USER-AGENT,MOO*
 USER-AGENT,TencentMidasConnect*
 
 # TencentVideo 腾讯视频
+DOMAIN-SUFFIX,v.smtcdns.com
 DOMAIN-SUFFIX,vv.video.qq.com
 
 # Youku 优酷
