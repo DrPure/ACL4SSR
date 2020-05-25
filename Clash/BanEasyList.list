@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyList列表，只包含ABP中的 EasyList 内容
 # 来源：https://easylist-downloads.adblockplus.org/easylist.txt
-# 更新：2020-05-24 13:43:44
-# 数量：2047条
+# 更新：2020-05-25 20:54:40
+# 数量：2049条
 
 DOMAIN-SUFFIX,01dbf3a452b6.com
 DOMAIN-SUFFIX,05xz0h2xo799.com
@@ -289,6 +289,7 @@ DOMAIN-SUFFIX,aujaujoa.net
 DOMAIN-SUFFIX,aukalerim.com
 DOMAIN-SUFFIX,aurdeert.net
 DOMAIN-SUFFIX,aurtooks.com
+DOMAIN-SUFFIX,authorneratu.club
 DOMAIN-SUFFIX,authornernsa.pro
 DOMAIN-SUFFIX,automationeventually.com
 DOMAIN-SUFFIX,auxml.com
@@ -1342,6 +1343,7 @@ DOMAIN-SUFFIX,osmondards.pro
 DOMAIN-SUFFIX,otentieschoo.site
 DOMAIN-SUFFIX,otsurvedchange.info
 DOMAIN-SUFFIX,oughgoalityabo.info
+DOMAIN-SUFFIX,oukreesy.net
 DOMAIN-SUFFIX,ouncialliberte.site
 DOMAIN-SUFFIX,ountapaveralle.info
 DOMAIN-SUFFIX,ousseventi.info

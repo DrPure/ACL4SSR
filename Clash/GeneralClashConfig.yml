@@ -594,6 +594,7 @@ cfw-bypass:
   - "*.staticfile.org"
   - "*.upaiyun.com"
   # AccelerateDirectSites
+  - "*.115.com"
   - "*.12306.com"
   - "*.17173.com"
   - "*.178.com"

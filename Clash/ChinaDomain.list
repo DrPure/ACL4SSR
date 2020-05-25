@@ -428,6 +428,7 @@ DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
 
 # AccelerateDirectSites
+DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,12306.com
 DOMAIN-SUFFIX,17173.com
 DOMAIN-SUFFIX,178.com

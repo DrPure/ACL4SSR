@@ -1,6 +1,6 @@
 #**********************************************************************
-# 05.22
-# 2020年5月22日 12:56:48
+# 05.25
+# 2020年5月25日20:55:09
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -1521,7 +1521,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：9789条
+# 数量：9792条
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
 (^|\.)00880808\.com$
@@ -2963,6 +2963,7 @@
 (^|\.)aurtooks\.com$
 (^|\.)auspiciousvp\.com$
 (^|\.)authcaptcha\.com$
+(^|\.)authorneratu\.club$
 (^|\.)authornernsa\.pro$
 (^|\.)autobedo\.com\.cn$
 (^|\.)automationeventually\.com$
@@ -7571,6 +7572,7 @@
 (^|\.)otsurvedchange\.info$
 (^|\.)ou15r\.cn$
 (^|\.)oughgoalityabo\.info$
+(^|\.)oukreesy\.net$
 (^|\.)oul78c\.cn$
 (^|\.)oulvtrip\.com$
 (^|\.)oumazg\.com$
@@ -8028,6 +8030,7 @@
 (^|\.)qewisoti\.com$
 (^|\.)qflwh\.cn$
 (^|\.)qfs365\.com$
+(^|\.)qfzcxs\.cn$
 (^|\.)qgana\.com$
 (^|\.)qgaot\.com$
 (^|\.)qgjapp\.com$
@@ -11804,6 +11807,7 @@
 (^|\.)upaiyun\.com$
 
 # AccelerateDirectSites
+(^|\.)115\.com$
 (^|\.)12306\.com$
 (^|\.)17173\.com$
 (^|\.)178\.com$
