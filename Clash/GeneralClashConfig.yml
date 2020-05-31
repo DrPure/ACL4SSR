@@ -489,11 +489,6 @@ cfw-bypass:
   - "*.hockeyapp.net"
   - "*.smartmailcloud.com"
   # Steam
-  DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com
-  DOMAIN,dl.steam.ksyna.com
-  DOMAIN,st.dl.bscstorage.net
-  DOMAIN,st.dl.eccdnx.com
-  DOMAIN,st.dl.pinyuncloud.com
   - "*.csgo.wmsj.cn"
   - "*.dota2.wmsj.cn"
   - "*.steam-chat.com"
