@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-05-28 20:35:17
-# 数量：2519条
+# 更新：2020-05-31 11:43:30
+# 数量：2517条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -869,7 +869,6 @@ DOMAIN-SUFFIX,footprint.anetwork.ir
 DOMAIN-SUFFIX,fourmtagservices.appspot.com
 DOMAIN-SUFFIX,fp.measure.office.com
 DOMAIN-SUFFIX,fresh.techdirt.com
-DOMAIN-SUFFIX,frog.wix.com
 DOMAIN-SUFFIX,fsm.lapresse.ca
 DOMAIN-SUFFIX,fsz1.francoisesaget.com
 DOMAIN-SUFFIX,funn.graphiq.com
@@ -920,6 +919,7 @@ DOMAIN-SUFFIX,geo.play.it
 DOMAIN-SUFFIX,geo.q5media.net
 DOMAIN-SUFFIX,geo.xcel.io
 DOMAIN-SUFFIX,geo.yahoo.com
+DOMAIN-SUFFIX,geoapi.indiatimes.com
 DOMAIN-SUFFIX,geobar.ziffdavisinternational.com
 DOMAIN-SUFFIX,geobeacon.ign.com
 DOMAIN-SUFFIX,geoip-lookup.vice.com
@@ -952,7 +952,6 @@ DOMAIN-SUFFIX,glogger.inspcloud.com
 DOMAIN-SUFFIX,gmonitor.aliimg.com
 DOMAIN-SUFFIX,gnar.grammarly.com
 DOMAIN-SUFFIX,go.optifuze.com
-DOMAIN-SUFFIX,go.techtarget.com
 DOMAIN-SUFFIX,gobba.myeffect.net
 DOMAIN-SUFFIX,google-analytics.com/batch
 DOMAIN-SUFFIX,google-analytics.com/internal/collect
@@ -1050,7 +1049,6 @@ DOMAIN-SUFFIX,kalstats.kaltura.com
 DOMAIN-SUFFIX,kbn.korben.info
 DOMAIN-SUFFIX,keighleynews-gb.keighleynews.co.uk
 DOMAIN-SUFFIX,keyword.daumdn.com
-DOMAIN-SUFFIX,kg.aws.mashable.com
 DOMAIN-SUFFIX,kiks.auto.ru
 DOMAIN-SUFFIX,kinesisproxy.hearstlabs.com
 DOMAIN-SUFFIX,kitchen.juicer.cc
@@ -2331,6 +2329,7 @@ DOMAIN-SUFFIX,tracking.wlscripts.net
 DOMAIN-SUFFIX,tracking1.brandmentions.com
 DOMAIN-SUFFIX,tracking2.channeladvisor.com
 DOMAIN-SUFFIX,trackingapi.cloudapp.net
+DOMAIN-SUFFIX,trackjay.cool3c.com
 DOMAIN-SUFFIX,trackla.stackla.com
 DOMAIN-SUFFIX,trackpm.shop2market.com
 DOMAIN-SUFFIX,tracks.arubamediamarketing.it
@@ -2399,7 +2398,6 @@ DOMAIN-SUFFIX,urtracker.q-sis.de
 DOMAIN-SUFFIX,useg.nextdigital.com.hk
 DOMAIN-SUFFIX,user-metrics.onthemarket.com
 DOMAIN-SUFFIX,userfly.com
-DOMAIN-SUFFIX,users.techtarget.com
 DOMAIN-SUFFIX,usersegment.wpdigital.net
 DOMAIN-SUFFIX,utrack.hexun.com
 DOMAIN-SUFFIX,uts.auction.co.kr

@@ -489,13 +489,20 @@ cfw-bypass:
   - "*.hockeyapp.net"
   - "*.smartmailcloud.com"
   # Steam
+  DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com
+  DOMAIN,dl.steam.ksyna.com
+  DOMAIN,st.dl.bscstorage.net
+  DOMAIN,st.dl.eccdnx.com
+  DOMAIN,st.dl.pinyuncloud.com
+  - "*.csgo.wmsj.cn"
+  - "*.dota2.wmsj.cn"
   - "*.steam-chat.com"
-  - "*.steamgames.com"
-  - "*.steamusercontent.com"
-  - "*.steamcontent.com"
-  - "*.steamstatic.com"
   - "*.steamcdn-a.akamaihd.net"
+  - "*.steamcontent.com"
+  - "*.steamgames.com"
   - "*.steamstat.us"
+  - "*.steamstatic.com"
+  - "*.steamusercontent.com"
   # Tencent
   - "*.foxmail.com"
   - "*.gtimg.com"

@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2020-05-28 20:35:19
-# 数量：270条
+# 更新：2020-05-31 11:43:37
+# 数量：271条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -223,6 +223,7 @@ DOMAIN-SUFFIX,tvb.com
 
 # Netflix
 USER-AGENT,Argo*
+DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net

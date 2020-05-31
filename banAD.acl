@@ -744,7 +744,6 @@
 (^|\.)advert\.api\.thejoyrun\.com$
 (^|\.)api-deal\.kechenggezi\.com$
 (^|\.)api-z\.weidian\.com$
-(^|\.)bam\.nr-data\.net$
 (^|\.)mobileads\.msn\.com$
 (^|\.)bat\.bing\.com$
 (^|\.)beacon\.tingyun\.com$
@@ -1037,7 +1036,6 @@
 (^|\.)myhug\.cn$
 (^|\.)mzy2014\.com$
 (^|\.)networkbench\.com$
-(^|\.)newrelic\.com$
 (^|\.)ninebox\.cn$
 (^|\.)ntalker\.com$
 (^|\.)nylalobghyhirgh\.com$
@@ -1894,13 +1892,20 @@
 (^|\.)smartmailcloud\.com$
 
 # Steam
+(^|\.)cdn\.mileweb\.cs\.steampowered\.com\.8686c\.com$
+(^|\.)dl\.steam\.ksyna\.com$
+(^|\.)st\.dl\.bscstorage\.net$
+(^|\.)st\.dl\.eccdnx\.com$
+(^|\.)st\.dl\.pinyuncloud\.com$
+(^|\.)csgo\.wmsj\.cn$
+(^|\.)dota2\.wmsj\.cn$
 (^|\.)steam-chat\.com$
-(^|\.)steamgames\.com$
-(^|\.)steamusercontent\.com$
-(^|\.)steamcontent\.com$
-(^|\.)steamstatic\.com$
 (^|\.)steamcdn-a\.akamaihd\.net$
+(^|\.)steamcontent\.com$
+(^|\.)steamgames\.com$
 (^|\.)steamstat\.us$
+(^|\.)steamstatic\.com$
+(^|\.)steamusercontent\.com$
 
 # Tencent
 (^|\.)foxmail\.com$
